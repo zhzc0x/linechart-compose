@@ -1,6 +1,6 @@
-# LineChart-Compose
+# LineChartView-Compose
 
-## Compose版折线图表，实时多通道折线图LiveMultiLineChartView ，静态折线LineChartView，附带OpenBCI滤波功能
+## Compose 折线图表，静态折线图表LineChartView，实时多通道波形LiveMultiLineChartView ，附带OpenBCI滤波功能
 
 ![](https://github.com/zhzc0x/linechart-compose/blob/master/demo.gif)
 
